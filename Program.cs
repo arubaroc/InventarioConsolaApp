@@ -31,4 +31,4 @@ Console.WriteLine("Carpeta src/ creada para organizar el código fuente.");
 Console.WriteLine("Metadatos configurados");
 Console.WriteLine();
 Console.WriteLine("Proximos pasos: Agregar argumentos CLI yy configuración del repositorio en GitHub");
-Console.WriteLine("");
+Console.WriteLine("B.F.E.C.D.A");
